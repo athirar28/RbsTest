@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Install the dependent node modules
+Install the related node modules
 
 ### `npm start`
 
